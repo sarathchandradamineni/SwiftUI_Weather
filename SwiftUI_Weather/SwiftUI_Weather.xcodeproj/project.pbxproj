@@ -13,6 +13,7 @@
 		2D9E12C326D577AD00AE03AD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D9E12C226D577AD00AE03AD /* Preview Assets.xcassets */; };
 		2D9E12CE26D577AD00AE03AD /* SwiftUI_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9E12CD26D577AD00AE03AD /* SwiftUI_WeatherTests.swift */; };
 		2D9E12D926D577AD00AE03AD /* SwiftUI_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9E12D826D577AD00AE03AD /* SwiftUI_WeatherUITests.swift */; };
+		2DA6D7DD26EE4A2A009BCE0F /* ButtonTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DA6D7DC26EE4A2A009BCE0F /* ButtonTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		2D9E12D426D577AD00AE03AD /* SwiftUI_WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUI_WeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D9E12D826D577AD00AE03AD /* SwiftUI_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherUITests.swift; sourceTree = "<group>"; };
 		2D9E12DA26D577AD00AE03AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DA6D7DC26EE4A2A009BCE0F /* ButtonTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				2D9E12BF26D577AD00AE03AD /* Assets.xcassets */,
 				2D9E12C426D577AD00AE03AD /* Info.plist */,
 				2D9E12C126D577AD00AE03AD /* Preview Content */,
+				2DA6D7DC26EE4A2A009BCE0F /* ButtonTextView.swift */,
 			);
 			path = SwiftUI_Weather;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				2D9E12BE26D577AC00AE03AD /* ContentView.swift in Sources */,
 				2D9E12BC26D577AC00AE03AD /* SwiftUI_WeatherApp.swift in Sources */,
+				2DA6D7DD26EE4A2A009BCE0F /* ButtonTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
